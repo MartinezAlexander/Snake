@@ -1,11 +1,11 @@
 # ¡A jugar! 
 
 ## Juego realizado con la biblioteca Wollok Game
-# Controles
+## Controles
 https://github.com/MartinezAlexander/Snake/blob/master/Controles.gif
-# Nivel 1
+## Nivel 1
 https://github.com/MartinezAlexander/Snake/blob/master/Nivel%201.gif
-# Nivel 2
+## Nivel 2
 https://github.com/MartinezAlexander/Snake/blob/master/Nivel%202.gif
 ## Nivel 3
 https://github.com/MartinezAlexander/Snake/blob/master/Nivel%203.gif
