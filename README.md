@@ -1,9 +1,18 @@
 # ¡A jugar! 
 
 ## Juego realizado con la biblioteca Wollok Game
-https://github.com/pdepmartestm/2019tpwgame-snake/blob/master/Snake%20Final.gif
-
-
+Controles
+https://github.com/MartinezAlexander/Snake/blob/master/Controles.gif
+Nivel 1
+https://github.com/MartinezAlexander/Snake/blob/master/Nivel%201.gif
+Nivel 2
+https://github.com/MartinezAlexander/Snake/blob/master/Nivel%202.gif
+Nivel 3
+https://github.com/MartinezAlexander/Snake/blob/master/Nivel%203.gif
+Muestra de que se pierde chocando
+https://github.com/MartinezAlexander/Snake/blob/master/Pierde-Por-Choque.gif
+Muestra de que se pierde enredado
+https://github.com/MartinezAlexander/Snake/blob/master/Perder-Enredado.gif
 
 ### Resumen:
 Es un juego en el cual uno debe dirigir a la viborita hacia los alimentos para poder aumentar o disminuir de peso. Para ganar se debe cumplir con los requisitos indicados en cada nivel. 
