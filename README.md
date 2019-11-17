@@ -1,17 +1,17 @@
 # ¡A jugar! 
 
 ## Juego realizado con la biblioteca Wollok Game
-## Controles
+### Controles
 https://github.com/MartinezAlexander/Snake/blob/master/Controles.gif
-## Nivel 1
+### Nivel 1
 https://github.com/MartinezAlexander/Snake/blob/master/Nivel%201.gif
-## Nivel 2
+### Nivel 2
 https://github.com/MartinezAlexander/Snake/blob/master/Nivel%202.gif
-## Nivel 3
+### Nivel 3
 https://github.com/MartinezAlexander/Snake/blob/master/Nivel%203.gif
-## Muestra que se pierde chocando
+### Muestra que se pierde chocando
 https://github.com/MartinezAlexander/Snake/blob/master/Pierde-Por-Choque.gif
-## Muestra de que se pierde enredado
+### Muestra de que se pierde enredado
 https://github.com/MartinezAlexander/Snake/blob/master/Perder-Enredado.gif
 
 ### Resumen:
@@ -43,7 +43,7 @@ Aumenta la velocidad del nivel anterior y la vibora permanecera con una borrache
 
 ### Acerca de:
 
-# Autores:
+## Autores:
 Alexander Martinez, 
 
 Ivan Gonzales,
@@ -52,7 +52,7 @@ Jose Bruzzoni,
 
 Melany Gassmann,
 
-# Docente/Curso/Institución:
+## Docente/Curso/Institución:
 Lucas Spigarol / K2002 / UTN FRBA
 
 Versión de wollok:
