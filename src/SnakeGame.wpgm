@@ -1,0 +1,11 @@
+import wollok.game.*
+import Pantallas.*
+import Elemento.*
+import Marco.*
+import Comestibles.*
+
+program snakeGame {
+	juego.crearPantallasYNiveles()
+	juego.iniciarJuego()
+	game.start()
+}
